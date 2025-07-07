@@ -15,7 +15,7 @@ yesBtn.addEventListener("click", () => {
     // Buat bisa diklik
     gif.style.cursor = "pointer";
     gif.addEventListener("click", () => {
-        window.open("https://mhminnn.github.io/acaaaa/", "_blank");
+        window.open("https://mhminnn.github.io/flower/", "_blank");
     });
 });
 
