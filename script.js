@@ -2,6 +2,8 @@ const question = document.querySelector('.question');
 const gif = document.querySelector('.gif');
 const yesBtn = document.querySelector('.yes-btn');
 const noBtn = document.querySelector('.no-btn');
+document.getElementById("musik").play();
+
 
 yesBtn.addEventListener("click", () => {
     question.innerHTML = "Semangtttt, nih hadiah biar semangatt (tekan hadiahnya)";
